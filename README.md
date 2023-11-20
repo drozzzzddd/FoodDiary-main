@@ -1,2 +1,2 @@
 # FoodDiary
-A React app for tracking calory consumption and finding nutritional information
+пыталась добавить в основной проект, но поняла, что лучше бы этого не делала и не знаю, как те файлы и тот коммит удалить. поэтому пока закидываю все в отдельный репозиторий
